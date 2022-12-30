@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumWithCSharp", "Selen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomMethods", "CustomMethods\CustomMethods.csproj", "{0A831C67-C6B1-4B14-B7B6-C09DB880ABE6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProjectEA", "TestProjectEA\TestProjectEA.csproj", "{5333379C-BBB7-49A8-84B3-3C6E5C49F554}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0A831C67-C6B1-4B14-B7B6-C09DB880ABE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A831C67-C6B1-4B14-B7B6-C09DB880ABE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A831C67-C6B1-4B14-B7B6-C09DB880ABE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5333379C-BBB7-49A8-84B3-3C6E5C49F554}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5333379C-BBB7-49A8-84B3-3C6E5C49F554}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5333379C-BBB7-49A8-84B3-3C6E5C49F554}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5333379C-BBB7-49A8-84B3-3C6E5C49F554}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
